@@ -1,0 +1,10 @@
+{
+    "name": "Yacht",
+    "description": "Yacht is a container management UI.",
+    "icon": "mdi-ship-wheel",
+    "company": "Blue Robotics",
+    "version": "1.0.0",
+    "new_page": true,
+    "webpage": "https://github.com/patrickelectric/blueos-yacht",
+    "api": "/v1.0/docs"
+}
